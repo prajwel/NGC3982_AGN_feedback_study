@@ -1,0 +1,1 @@
+This repository contains the data and Python scripts (as Jupyter notebooks) used for the NGC 3982 AGN feedback study (https://doi.org/10.1051/0004-6361/202243923). Please note that this repository is mostly just a dump; I have not organised it in any manner. 
